@@ -5,12 +5,13 @@ A arduino project integrated with firebase and React Native to dispatch events i
 
 ### npm install 
 
-Android:
+### Android:
 
-### Run
+Run
 Type react-native run-android in terminal.
 
-iOS:
+### iOS:
 Go to ios root/ios and type pod install.
-### Run 
+
+Run 
 react-native run-ios
